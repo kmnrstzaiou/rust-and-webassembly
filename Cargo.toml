@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "http-server",
+    "a-first-business-microservice",
+]
+resolver = "2"
